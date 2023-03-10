@@ -16,3 +16,6 @@
   <img aling="center" all="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   
 </div>
+<br />
+
+"A única maneira de fazer um grande trabalho é amar o que você faz." - Steve Jobs
