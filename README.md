@@ -19,3 +19,7 @@
 <br />
 
 "A única maneira de fazer um grande trabalho é amar o que você faz." - Steve Jobs
+
+<br />
+<br />
+<h3> Email de contato: </h3> diegoleandro477@gmail.com
